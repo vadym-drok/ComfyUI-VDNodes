@@ -30,6 +30,7 @@ The node takes a `prompts_list` input in the following format:
 <0>: A knight in armor
 #<1>: A girl with a sword   <-- This line is ignored
 <2>: A roaring lion
+```
 
 ## Examples
 
