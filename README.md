@@ -1,4 +1,4 @@
-# VD Custom Node for ComfyUI
+# VD Custom Nodes for ComfyUI
 
 ## Installation
 
@@ -20,7 +20,6 @@ The node supports:
 - A single negative prompt that is applied to all positive prompts.
 - Automatic sorting of prompts by their numerical order.
 
-
 ---
 
 ## Usage
@@ -31,3 +30,7 @@ The node takes a `prompts_list` input in the following format:
 <0>: A knight in armor
 #<1>: A girl with a sword   <-- This line is ignored
 <2>: A roaring lion
+
+## Examples
+
+![image](https://github.com/user-attachments/assets/a8559790-d1e0-4aa8-8358-4ffb7c905375)
